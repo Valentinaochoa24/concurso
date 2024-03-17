@@ -67,4 +67,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+### Link a Concepto e ideas:
+https://www.canva.com/design/DAF_y2BiC1c/vaYiBvS-hQX4XMs_q9uYWw/view?utm_content=DAF_y2BiC1c&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+### Link a Mockup:
+https://www.canva.com/design/DAF_q-SOWl8/jdn5dC2ZPcb9wT84S1ySnA/view?utm_content=DAF_q-SOWl8&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+### Link a simulación web: 
+Mockup web:  https://contechme.my.canva.site/homepage
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
